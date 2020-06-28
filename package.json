@@ -1,5 +1,5 @@
 {
-  "name": "static-templateparcel",
+  "name": "rotate-cards",
   "version": "1.0.0",
   "author": "sa9sha9",
   "license": "MIT",
@@ -14,5 +14,5 @@
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": ["static-template", "codesandbox", "scss", "parcel"]
+  "keywords": []
 }
